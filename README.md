@@ -2,7 +2,7 @@
 
 Submitted by: **Nhi Huynh**
 
-This web app: **insert description**
+This web app: **An interactive study aid designed to help users prepare for the U.S. citizenship test**
 
 Time spent: **6** hours spent in total
 
@@ -18,7 +18,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-- [] Cards contains images in addition to or in place of text
+- [ ] Cards contains images in addition to or in place of text
 - [x] Cards have different visual styles such as color based on their category
   - [ ] *visual style implemented*
 
