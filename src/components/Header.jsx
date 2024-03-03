@@ -8,8 +8,7 @@ function Header() {
                 <img src={Statue} id="statue"/>
                 <div className="header">
                     <h1> US CIVICS STUDY AID</h1>
-                    <h2> How much of a guitar enthusiast are you? Test your knowledge of
-            guitar and music history </h2>
+                    <h2> "How much of a U.S. civics enthusiast are you? Test your knowledge and prepare for U.S. citizenship with this study aid." </h2>
                     <h3>Number of cards: 100</h3>
                 </div>
                 <img src={Flag} id="flag"/>
